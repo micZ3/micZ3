@@ -1,9 +1,6 @@
 -👹Electrical Engineer
 - 😉😎c  pythonspider
-- 🥰welecome to my rersoouse
-- 📫 How to reach me ... n
-- that's ok
-- please👹🤓
+- ok🥱
 
 <!---
 micZ3/micZ3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
