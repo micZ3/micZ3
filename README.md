@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @micZ3
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ??  no baody
-- 😉😎now,I want to play somefriends,or u can play with me
+-👹Electrical Engineer
+- 😉😎c  pythonspider
 - 🥰welecome to my rersoouse
 - 📫 How to reach me ... n
 - that's ok
